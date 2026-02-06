@@ -126,23 +126,34 @@ https://github.com/user-attachments/assets/9e55854f-cdd3-491a-9c06-a8d5605a5d2c
 - 🔗 The deployed app link will appear in your Streamlit dashboard
   
 - 📦 Package Installation Commands
-pip install streamlit
+- 
+      pip install streamlit
 
-pip install python-dotenv
+      pip install python-dotenv
 
-pip install chromadb
+      pip install chromadb
 
-pip install langchain
-pip install langchain-communit
-pip install faiss-cpu
-pip install sentence-transformers
-pip install torch
-pip install pypdf
-pip install pandas
-pip install numpy
-pip install pytesseract
-pip install pillow
-streamlit run appProject.py
+      pip install langchain
+  
+      pip install langchain-community
+  
+      pip install faiss-cpu
+
+      pip install sentence-transformers
+  
+      pip install torch
+  
+      pip install pypdf
+  
+      pip install pandas
+  
+      pip install numpy
+  
+      pip install pytesseract
+  
+      pip install pillow
+  
+      streamlit run appProject.py
 
 # 7️⃣ Tech Stack
 
