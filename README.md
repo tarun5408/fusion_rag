@@ -108,21 +108,23 @@ https://github.com/user-attachments/assets/9e55854f-cdd3-491a-9c06-a8d5605a5d2c
 
 # 6️⃣ Deployment Guide
 
-## 🚀 Streamlit Cloud Deployment
-
-1.  Visit https://streamlit.io/cloud\
-2.  Connect GitHub repository\
-3.  Select app.py\
-4.  Deploy application
-
-## 🤗 Hugging Face Spaces Deployment
-
-1.  Visit https://huggingface.co/spaces\
-2.  Create Streamlit Space\
-3.  Upload project files\
-4.  Deployment starts automatically
-
----
+## 🚀Deployment Guide
+1️⃣ Hugging Face Spaces
+Go to Hugging Face Spaces�
+Create a New Space → choose Streamlit SDK
+Upload or push your FusionRAG project folder code (app.project.py, requirements.txt)
+Hugging Face will auto-install dependencies
+Your app will run with:
+Copy code
+Bash:
+streamlit run app.project.py
+2️⃣ Streamlit Cloud
+Sign in at Streamlit Cloud�
+Create a New App
+Connect your GitHub repo and select the FusionRAG project folder (app.project.py)
+Add your dependencies from requirements.txt
+Deploy the app — Streamlit will build and serve it automatically
+🔗 The deployed app link will appear in your Streamlit dashboard
 
 # 7️⃣ Tech Stack
 
