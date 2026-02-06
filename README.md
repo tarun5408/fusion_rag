@@ -111,7 +111,7 @@ https://github.com/user-attachments/assets/9e55854f-cdd3-491a-9c06-a8d5605a5d2c
 ### 1️⃣ Hugging Face Spaces  
 - Go to **[Hugging Face Spaces](https://huggingface.co/spaces)**  
 - Create a *New Space* → choose *Streamlit SDK*  
-- Upload or push your chatbot folder code (app.project.py, requirements.txt)  
+- Upload or push your project folder code (app.project.py, requirements.txt)  
 - Hugging Face will auto-install dependencies  
 - Your app will run with:  
   bash:
@@ -120,7 +120,7 @@ https://github.com/user-attachments/assets/9e55854f-cdd3-491a-9c06-a8d5605a5d2c
 ### 2️⃣ Streamlit Cloud  
 - Sign in at **[Streamlit Cloud](https://streamlit.io/cloud)**  
 - Create a *New App*  
-- Connect your GitHub repo and select the chatbot folder (app.project.py)  
+- Connect your GitHub repo and select the project folder (app.project.py)  
 - Add your dependencies from requirements.txt  
 - Deploy the app — Streamlit will build and serve it automatically  
 - 🔗 The deployed app link will appear in your Streamlit dashboard 
