@@ -108,23 +108,22 @@ https://github.com/user-attachments/assets/9e55854f-cdd3-491a-9c06-a8d5605a5d2c
 
 # 6️⃣ Deployment Guide
 
-## 🚀Deployment Guide
-1️⃣ Hugging Face Spaces
-Go to Hugging Face Spaces�
-Create a New Space → choose Streamlit SDK
-Upload or push your FusionRAG project folder code (app.project.py, requirements.txt)
-Hugging Face will auto-install dependencies
-Your app will run with:
-Copy code
-Bash:
-streamlit run app.project.py
-2️⃣ Streamlit Cloud
-Sign in at Streamlit Cloud�
-Create a New App
-Connect your GitHub repo and select the FusionRAG project folder (app.project.py)
-Add your dependencies from requirements.txt
-Deploy the app — Streamlit will build and serve it automatically
-🔗 The deployed app link will appear in your Streamlit dashboard
+### 1️⃣ Hugging Face Spaces  
+- Go to **[Hugging Face Spaces](https://huggingface.co/spaces)**  
+- Create a *New Space* → choose *Streamlit SDK*  
+- Upload or push your chatbot folder code (app.project.py, requirements.txt)  
+- Hugging Face will auto-install dependencies  
+- Your app will run with:  
+  bash
+  streamlit run app.py
+  
+### 2️⃣ Streamlit Cloud  
+- Sign in at **[Streamlit Cloud](https://streamlit.io/cloud)**  
+- Create a *New App*  
+- Connect your GitHub repo and select the chatbot folder (app.project.py)  
+- Add your dependencies from requirements.txt  
+- Deploy the app — Streamlit will build and serve it automatically  
+- 🔗 The deployed app link will appear in your Streamlit dashboard 
 
 # 7️⃣ Tech Stack
 
