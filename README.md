@@ -123,8 +123,22 @@ https://github.com/user-attachments/assets/9e55854f-cdd3-491a-9c06-a8d5605a5d2c
 - Connect your GitHub repo and select the project folder (app.project.py)  
 - Add your dependencies from requirements.txt  
 - Deploy the app — Streamlit will build and serve it automatically  
-- 🔗 The deployed app link will appear in your Streamlit dashboard 
-
+- 🔗 The deployed app link will appear in your Streamlit dashboard
+- 
+- ### package installalation
+ .Chroma Vector DB - pip install chromadb
+ .Core UI Framework - pip install streamlit
+ .Environment Variables - pip install python-dotenv
+ .Langchain - pip install langchain
+ .LangChain Community tools - pip install langchain-community
+ .FAISS - pip install faiss-cpu
+ .Embedding Models - pip install sentence-transformers
+ .Torch- pip install torch
+ .Document processing -pip install pypdf
+ .Data Handling - pip install pandas
+ .Numerical Computation - pip install numpy
+ .Running of project - streamlit run app.project.py
+ 
 # 7️⃣ Tech Stack
 
 • Python 3.9+\
