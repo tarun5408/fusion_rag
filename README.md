@@ -114,8 +114,8 @@ https://github.com/user-attachments/assets/9e55854f-cdd3-491a-9c06-a8d5605a5d2c
 - Upload or push your chatbot folder code (app.project.py, requirements.txt)  
 - Hugging Face will auto-install dependencies  
 - Your app will run with:  
-  bash
-  streamlit run app.py
+  bash:
+  streamlit run app.project.py
   
 ### 2️⃣ Streamlit Cloud  
 - Sign in at **[Streamlit Cloud](https://streamlit.io/cloud)**  
