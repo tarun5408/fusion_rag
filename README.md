@@ -127,8 +127,11 @@ https://github.com/user-attachments/assets/9e55854f-cdd3-491a-9c06-a8d5605a5d2c
   
 - 📦 Package Installation Commands
 pip install streamlit
+
 pip install python-dotenv
+
 pip install chromadb
+
 pip install langchain
 pip install langchain-communit
 pip install faiss-cpu
