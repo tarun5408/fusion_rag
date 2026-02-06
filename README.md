@@ -126,18 +126,38 @@ https://github.com/user-attachments/assets/9e55854f-cdd3-491a-9c06-a8d5605a5d2c
 - 🔗 The deployed app link will appear in your Streamlit dashboard
 - 
 - ### package installalation
- .Chroma Vector DB - pip install chromadb
- .Core UI Framework - pip install streamlit
- .Environment Variables - pip install python-dotenv
- .Langchain - pip install langchain
- .LangChain Community tools - pip install langchain-community
- .FAISS - pip install faiss-cpu
- .Embedding Models - pip install sentence-transformers
- .Torch- pip install torch
- .Document processing -pip install pypdf
- .Data Handling - pip install pandas
- .Numerical Computation - pip install numpy
- .Running of project - streamlit run app.project.py
+ # Streamlit (UI Framework)
+pip install streamlit
+
+# Python Dotenv (Environment Variables)
+pip install python-dotenv
+
+# ChromaDB (Vector Database)
+pip install chromadb
+
+# LangChain (RAG Pipeline)
+pip install langchain
+
+# LangChain Community Tools
+pip install langchain-community
+
+# FAISS (Vector Similarity Search)
+pip install faiss-cpu
+
+# Sentence Transformers (Embeddings)
+pip install sentence-transformers
+
+# PyTorch (Model Backend)
+pip install torch
+
+# PyPDF (Document Processing)
+pip install pypdf
+
+# Pandas (Data Handling)
+pip install pandas
+
+# NumPy (Numerical Computation)
+pip install numpy
  
 # 7️⃣ Tech Stack
 
