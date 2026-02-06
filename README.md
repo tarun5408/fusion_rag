@@ -80,7 +80,7 @@ retrieves and verifies information before generating responses.
 
 # 5️⃣ Run Locally
 
-    git clone (https://github.com/tarun5408/fusion_rag.git)
+    git clone https://github.com/tarun5408/fusion_rag.git
     cd FusionRAG-DocChat
 
     pip install -r requirements.txt
