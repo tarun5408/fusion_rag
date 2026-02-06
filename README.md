@@ -126,20 +126,34 @@ https://github.com/user-attachments/assets/9e55854f-cdd3-491a-9c06-a8d5605a5d2c
 - 🔗 The deployed app link will appear in your Streamlit dashboard
   
 - 📦 Package Installation Commands
-pip install streamlit
-pip install python-dotenv
-pip install chromadb
-pip install langchain
-pip install langchain-community
-pip install faiss-cpu
-pip install sentence-transformers
-pip install torch
-pip install pypdf
-pip install pandas
-pip install numpy
-pip install pytesseract
-pip install pillow
-streamlit run appProject.py
+📦 Package Installation List
+• Streamlit (UI Framework)
+→ pip install streamlit
+• Python Dotenv (Environment Variables)
+→ pip install python-dotenv
+• ChromaDB (Vector Database)
+→ pip install chromadb
+• LangChain (RAG Pipeline)
+→ pip install langchain
+• LangChain Community Tools
+→ pip install langchain-community
+• FAISS (Vector Similarity Search)
+→ pip install faiss-cpu
+• Sentence Transformers (Embeddings)
+→ pip install sentence-transformers
+• PyTorch (Model Backend)
+→ pip install torch
+• PyPDF (Document Processing)
+→ pip install pypdf
+• Pandas (Data Handling)
+→ pip install pandas
+• NumPy (Numerical Computation)
+→ pip install numpy
+• PyTesseract (OCR Processing)
+→ pip install pytesseract
+• Pillow (Image Processing)
+→ pip install pillow
+
 # 7️⃣ Tech Stack
 
 • Python 3.9+\
