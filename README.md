@@ -47,9 +47,9 @@ trustworthy document-based conversations.
 Fusion RAG Doc Chat operates like an intelligent research assistant that
 retrieves and verifies information before generating responses.
 
-
+<p align="center">
 <img width="367" height="137" alt="image" src="https://github.com/user-attachments/assets/b1d16de3-d828-4afd-94f6-3f9f1b43cf65" />
-
+</p>
 
 
 ## 🔍 Workflow Demonstration
