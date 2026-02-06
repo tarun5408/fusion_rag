@@ -125,48 +125,21 @@ https://github.com/user-attachments/assets/9e55854f-cdd3-491a-9c06-a8d5605a5d2c
 - Deploy the app — Streamlit will build and serve it automatically  
 - 🔗 The deployed app link will appear in your Streamlit dashboard
 - 
-- 📦 Package Installation List
-# Streamlit (UI Framework)
+- 📦 Package Installation Commands
 pip install streamlit
-
-# Python Dotenv (Environment Variables)
 pip install python-dotenv
-
-# ChromaDB (Vector Database)
 pip install chromadb
-
-# LangChain (RAG Pipeline)
 pip install langchain
-
-# LangChain Community Tools
 pip install langchain-community
-
-# FAISS (Vector Similarity Search)
 pip install faiss-cpu
-
-# Sentence Transformers (Embeddings)
 pip install sentence-transformers
-
-# PyTorch (Model Backend)
 pip install torch
-
-# PyPDF (Document Processing)
 pip install pypdf
-
-# Pandas (Data Handling)
 pip install pandas
-
-# NumPy (Numerical Computation)
 pip install numpy
-
-# PyTesseract (OCR Processing)
 pip install pytesseract
-
-# Pillow (Image Processing)
 pip install pillow
-
-# Run Streamlit Application
-streamlit run app.project.py
+streamlit run appProject.py
 
 # 7️⃣ Tech Stack
 
