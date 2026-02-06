@@ -124,7 +124,7 @@ https://github.com/user-attachments/assets/9e55854f-cdd3-491a-9c06-a8d5605a5d2c
 - Add your dependencies from requirements.txt  
 - Deploy the app — Streamlit will build and serve it automatically  
 - 🔗 The deployed app link will appear in your Streamlit dashboard
-- 
+  
 - 📦 Package Installation Commands
 pip install streamlit
 pip install python-dotenv
@@ -140,7 +140,6 @@ pip install numpy
 pip install pytesseract
 pip install pillow
 streamlit run appProject.py
-
 # 7️⃣ Tech Stack
 
 • Python 3.9+\
