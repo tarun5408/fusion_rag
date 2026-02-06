@@ -166,7 +166,8 @@ pip install pytesseract
 pip install pillow
 
 # Run Streamlit Application
-streamlit run appProject.py
+streamlit run app.project.py
+
 # 7️⃣ Tech Stack
 
 • Python 3.9+\
