@@ -52,7 +52,7 @@ retrieves and verifies information before generating responses.
 </p>
 <p align="center">
     
-https://github.com/tarun5408/fusion_rag/blob/main/Fusion%20Rag%20Live%20Demo%20link.mp4
+    https://github.com/tarun5408/fusion_rag/blob/main/Fusion%20Rag%20Live%20Demo%20link.mp4
 
 
 </p>
