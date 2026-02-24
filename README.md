@@ -53,7 +53,11 @@ retrieves and verifies information before generating responses.
 <p align="center">
 
 
-https:"C:\Users\eswar\Downloads\Recording 2026-02-06 143602 (2).mp4"
+https:<h3>🎥 Fusion Rag Live Demo</h3>
+
+<video width="800" controls>
+  <source src="Fusion_Rag_Live_Demo.mp4" type="video/mp4">
+</video>
 
 
 
