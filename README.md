@@ -55,11 +55,13 @@ retrieves and verifies information before generating responses.
 
 https:<h3>🎥 Fusion Rag Live Demo</h3>
 
-<video width="800" controls>
-  <source src="Fusion_Rag_Live_Demo.mp4" type="video/mp4">
+<h2>🎬 Fusion RAG – Live Demonstration</h2>
+
+<p>Below is the complete workflow demonstration of the Fusion RAG Doc Chat System:</p>
+
+<video width="900" controls>
+  <source src="./assets/Fusion_Rag_Live_Demo.mp4" type="video/mp4">
 </video>
-
-
 
 </p>
 
